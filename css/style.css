@@ -1,7 +1,7 @@
 
 /* ICON IMAGE*/
 #icon-image-melat{
-    width:50px;
+    width:30px;
     border-radius: 50%;
 }
 #author-image{
@@ -28,6 +28,17 @@
     margin-top: 10rem;
     font-size: 40px;
 }
-h3{
-    font-size: 40px;
+
+/*ABOUT_ AUTHOR */
+.author-heading{
+    text-align: center;
+}
+
+/*People-Comment*/
+#people-comment{
+    background: rgb(235, 223, 224);
+    margin-top: 5rem;;
+}
+#form-pay{
+    margin-top: 5rem;
 }
