@@ -1,0 +1,33 @@
+
+/* ICON IMAGE*/
+#icon-image-melat{
+    width:50px;
+    border-radius: 50%;
+}
+#author-image{
+    border-radius: 50%;
+    width: 200px;;
+}
+
+
+
+/* HOME SECTION STYLE*/
+
+#home {
+    background: url("../image/melat.png");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center;
+    background-position: fixed;
+    /* clip-path: polygon(0 0, 80% 0%, 100% 0, 100% 60%, 81% 100%, 20% 100%, 0 100%, 0% 20%); */
+    height: 100vh;
+
+}
+#home-heading{
+    padding-top: 100px;
+    margin-top: 10rem;
+    font-size: 40px;
+}
+h3{
+    font-size: 40px;
+}
