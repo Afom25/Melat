@@ -19,8 +19,9 @@
     background-size: cover;
     background-position: center;
     background-position: fixed;
+
     /* clip-path: polygon(0 0, 80% 0%, 100% 0, 100% 60%, 81% 100%, 20% 100%, 0 100%, 0% 20%); */
-    height: 100vh;
+    height: 110vh;
 
 }
 #home-heading{
@@ -41,4 +42,34 @@
 }
 #form-pay{
     margin-top: 5rem;
+}
+.form-pay-1{
+    text-align: center;
+}
+#form-check{
+    text-align: center;
+    /* padding-left: 10px;; */
+}
+.btn btn-primary{
+    color:rgb(235, 223, 224);
+}
+#signin{
+    color:rgb(235, 223, 224);
+}
+h5{
+    color: black;
+}
+h4 , .payment-heading{
+    color: rgb(235, 223, 224);
+    text-align: center;
+}
+/*fotter*/
+
+.footer-1 {
+    background: rgb(235, 223, 224);
+    padding:20px;
+}
+.fotter-text p{
+    text-align: center;
+    color:black;
 }
